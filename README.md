@@ -4,10 +4,10 @@ jiahaowang616@gmail.com [[Github]](https://github.com/JiahaoPlus/)
 
 ### Education
 
-#University of California (Los Angeles Los Angeles, CA)
+# University of California (Los Angeles Los Angeles, CA)
 Bioscience, CSST Program, Supervisor: Prof. Daniel Low and Prof. Anand Santhanam Jul. 2018--Present
 
-#Wuhan University (Wuhan, China)
+# Wuhan University (Wuhan, China)
 Electronic Information Engineering, Candidate for Bachelor Sep. 2015--Present
 Member of the Excellent Engineering Program
 
