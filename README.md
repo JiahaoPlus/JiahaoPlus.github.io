@@ -1,8 +1,15 @@
 ## Jiahao Wang
 
-jiahaowang616@gmail.com [Github](https://github.com/JiahaoPlus/)
+jiahaowang616@gmail.com [[Github]](https://github.com/JiahaoPlus/)
 
-### Markdown
+### Education
+
+#University of California (Los Angeles Los Angeles, CA)
+Bioscience, CSST Program, Supervisor: Prof. Daniel Low and Prof. Anand Santhanam Jul. 2018--Present
+
+#Wuhan University (Wuhan, China)
+Electronic Information Engineering, Candidate for Bachelor Sep. 2015--Present
+Member of the Excellent Engineering Program
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
