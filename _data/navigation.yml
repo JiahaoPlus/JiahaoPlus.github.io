@@ -5,12 +5,15 @@ main:
 
   - title: "Publications"
     url: /publications/
+    
+  - title: "Projects"
+    url: /projects/
 
   # - title: "Awards & Honors"
   #   url: /awards/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -18,8 +21,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blogs"
-    url: /year-archive/
+  #- title: "Blogs"
+  #  url: /year-archive/
     
   - title: "Contact"
     url: /contact/  
