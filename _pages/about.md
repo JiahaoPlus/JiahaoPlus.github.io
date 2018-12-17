@@ -19,12 +19,12 @@ My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/s
 * Sep 07, 2018. I won the "Best Research and Presentation Award" in EE group at UCLA CSST Program.
 
 # Education
-* <b>University of California, Los Angeles (Los Angeles, CA)<\b><br>
+* <b>University of California, Los Angeles (Los Angeles, CA) </b> <br>
 Jul. 2018--Sep. 2018<br>
 GPA: 4.00/4.00, Bioscience, CSST Program<br>
 Advisor: Prof. Daniel Low and Prof. Anand Santhanam<br>
 
-* <b>Wuhan University (Wuhan, China)<\b><br>
+* <b>Wuhan University (Wuhan, China)</b> <br>
 Sep. 2015--Present<br>
 GPA: 3.92/4.00, ranking 1/97, Electronic Information Engineering, Candidate for Bachelor <br>
 Member of the Excellent Engineering Program<br>
