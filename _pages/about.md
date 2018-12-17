@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am an undergraduate student majoring in EE at Wuhan University. [[CV]](http://JiahaoPlus.com/files/CV_Jiahao_Wang.pdf)
+* I am an undergraduate student majoring in EE at Wuhan University. [[CV]](http://JiahaoPlus.com/files/CV_Jiahao_Wang.pdf)<br>
 My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
 * I am now an intern at [VMware](https://www.vmware.com/).
 
@@ -31,6 +31,9 @@ Sep. 2015--Present
 
 # Experience
 ## VMware (Beijing, China)
+### Olfactory Bulb Volume Calculation Using MRI Scans
+### Graph Mining on Open Source Repositories 
+### Service Requests Alerting System
 * Software Engineering Intern, Advisor: Kevin Song (Sep. 2018--Present)
 
 ## University of California, Los Angeles Los Angeles, CA
