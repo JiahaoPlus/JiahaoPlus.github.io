@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://JiahaoPlus.github.io/images/bio-photo-0.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
-
 * I am an undergraduate student majoring in EE at Wuhan University. [[Curriculum Vitae]](http://JiahaoPlus.com/files/CV_Jiahao_Wang.pdf)
 My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
 * I am now an intern at [VMware](https://www.vmware.com/).
