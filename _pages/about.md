@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am an undergraduate student majoring in EE at Wuhan University. [[Curriculum Vitae]](http://JiahaoPlus.com/files/CV_Jiahao_Wang.pdf)
+* I am an undergraduate student majoring in EE at Wuhan University. [[CV]](http://JiahaoPlus.com/files/CV_Jiahao_Wang.pdf)
 My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
 * I am now an intern at [VMware](https://www.vmware.com/).
 
@@ -19,23 +19,18 @@ My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/s
 * Sep 07, 2018. I won the "Best Research and Presentation Award" in EE group at UCLA CSST Program.
 
 # Education
-
 ## University of California, Los Angeles (Los Angeles, CA)
 GPA: 4.00/4.00, Bioscience, CSST Program, Advisor: Prof. Daniel Low and Prof. Anand Santhanam (Jul. 2018--Sep. 2018)
-
 ## Wuhan University (Wuhan, China)
 GPA: 3.92/4.00, ranking 1/97, Electronic Information Engineering, Candidate for Bachelor (Sep. 2015--Present)
 Member of the Excellent Engineering Program
 
 # Experience
-
 ## VMware (Beijing, China)
 ###Software Engineering Intern, Advisor: Kevin Song (Sep. 2018--Present)
-
 ## University of California, Los Angeles Los Angeles, CA
 ### Head and Neck CT Image Segmentation
 Research Assistant, Advisor: Prof. Daniel Low, Prof. Anand Santhanam (Jul. 2018--Present)
-
 ## Wuhan University Wuhan, China
 Research and Teaching Assistant, School of Electronic Information (Sep. 2015--Present)
 ### Retinal Image Registration:
