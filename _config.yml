@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiahao Wang"
   avatar           : "bio-photo-0.jpg"
-  bio              : "Bring intelligence to human well-being."
+  bio              : #"Bring intelligence to human well-being."
   location         : "Wuhan, China"
   employer         :
   googlescholar    :
