@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am an undergraduate student majoring in EE at Wuhan University. [[CV]](http://JiahaoPlus.com/files/CV_jh.pdf)<br>
+* I am an undergraduate student majoring in EE at Wuhan University. [[CV]](https://jiahaoplus.github.io/files/CV_jh.pdf)<br>
 My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
 * I am now an intern at [VMware](https://www.vmware.com/).
 
@@ -19,32 +19,32 @@ My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/s
 * Sep 07, 2018. I won the "Best Research and Presentation Award" in EE group at UCLA CSST Program.
 
 # Education
-![](https://JiahaoPlus.com/images/ucla2.jpg)  
+![](https://jiahaoplus.github.io/images/ucla2.jpg)  
 * <b>University of California, Los Angeles (Los Angeles, CA) </b> <br>
 Jul. 2018--Sep. 2018<br>
 GPA: 4.00/4.00, Bioscience, CSST Program<br>
 Advisor: Prof. Daniel Low and Prof. Anand Santhanam<br>
 
-![](https://JiahaoPlus.com/images/whu.png)  
+![](https://jiahaoplus.github.io/images/whu.png)  
 * <b>Wuhan University (Wuhan, China)</b> <br>
 Sep. 2015--Present<br>
 GPA: 3.92/4.00, ranking 1/97, Electronic Information Engineering, Candidate for Bachelor <br>
 Member of the Excellent Engineering Program<br>
 
 # Experience
-![](https://JiahaoPlus.com/images/vmware.jpg)  
+![](https://jiahaoplus.github.io/images/vmware.jpg)  
 * <b>VMware (Beijing, China) </b> <br>
 Software Engineering Intern, Advisor: Kevin Song (Sep. 2018--Present)<br>
 (1) Olfactory Bulb Volume Calculation Using MRI Scans<br>
 (2) Graph Mining on Open Source Repositories <br>
 (3) Service Requests Alerting System<br>
 
-![](https://JiahaoPlus.com/images/ucla2.jpg)  
+![](https://jiahaoplus.github.io/images/ucla2.jpg)  
 * <b>University of California, Los Angeles (Los Angeles, CA) </b> <br>
-Research Assistant, Advisor: Prof. Daniel Low, Prof. Anand Santhanam (Jul. 2018--Present)
+Research Assistant, Advisor: Prof. Daniel Low, Prof. Anand Santhanam (Jul. 2018--Present)<br>
 Head and Neck CT Image Segmentation
 
-![](https://JiahaoPlus.com/images/whu.png)  
+![](https://jiahaoplus.github.io/images/whu.png)  
 * <b>Wuhan University (Wuhan, China)</b> <br>
 Research and Teaching Assistant, School of Electronic Information (Sep. 2015--Present)<br>
 (1) Retinal Image Registration:<br>
