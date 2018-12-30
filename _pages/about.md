@@ -24,6 +24,7 @@ My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/s
 Jul. 2018--Sep. 2018<br>
 GPA: 4.00/4.00, Bioscience, CSST Program<br>
 Advisor: Prof. Daniel Low and Prof. Anand Santhanam<br>
+
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/whu.png"/> <br>
 <b>Wuhan University (Wuhan, China)</b> <br>
 Sep. 2015--Present<br>
@@ -31,16 +32,18 @@ GPA: 3.92/4.00, ranking 1/97, Electronic Information Engineering, Candidate for 
 Member of the Excellent Engineering Program<br>
 
 # Experience
-* <img width="75" height="75" src="https://jiahaoplus.github.io/images/vmware.png"/> <br>
+* <img width="100" height="100" src="https://jiahaoplus.github.io/images/vmware.png"/> <br>
 <b>VMware (Beijing, China) </b> <br>
 Software Engineering Intern, Advisor: Kevin Song (Sep. 2018--Present)<br>
 (1) Olfactory Bulb Volume Calculation Using MRI Scans<br>
 (2) Graph Mining on Open Source Repositories <br>
 (3) Service Requests Alerting System<br>
+
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/UCLA2.jpg"/> <br>
 <b>University of California, Los Angeles (Los Angeles, CA) </b> <br>
 Research Assistant, Advisor: Prof. Daniel Low, Prof. Anand Santhanam (Jul. 2018--Present)<br>
 Head and Neck CT Image Segmentation
+
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/whu.png"/> <br>
 <b>Wuhan University (Wuhan, China)</b> <br>
 Research and Teaching Assistant, School of Electronic Information (Sep. 2015--Present)<br>
