@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Jiahao Wang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jiahao Wang"
+description              : &description "I am an information processor."
 url                      : https://JiahaoPlus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiahaoPlus/JiahaoPlus.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jiahao Wang"
   avatar           : "bio-photo-0.jpg"
-  bio              : #"Bring intelligence to human well-being."
+  bio              : "Build intelligent machine for human well-being."
   location         : "Wuhan, China"
   employer         :
   googlescholar    :
-  email            : "jiahaowang616@gmail.com"
+  jiahaowang616@gmail.com            : "jiahaowang616@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
