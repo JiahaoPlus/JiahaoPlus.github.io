@@ -1,5 +1,5 @@
 ---
-layout: archive
+<!-- layout: archive -->
 title: "Jiahao Wang"
 permalink: /cv/
 author_profile: true
