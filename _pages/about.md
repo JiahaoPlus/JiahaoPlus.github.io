@@ -28,14 +28,14 @@ Advisor: Prof. Daniel Low and Prof. Anand Santhanam<br>
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/whu.png"/> <br>
 <b>Wuhan University (Wuhan, China)</b> <br>
 Sep. 2015--Present<br>
-GPA: 3.92/4.00, ranking 1/97, Electronic Information Engineering, Candidate for Bachelor <br>
+GPA: 3.92/4.00, <b>ranking 1/97</b>, Electronic Information Engineering, Candidate for Bachelor <br>
 Member of the Excellent Engineering Program<br>
 
 # Experience
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/vmware.png"/> <br>
 <b>VMware (Beijing, China) </b> <br>
 Software Engineering Intern, Advisor: Kevin Song (Sep. 2018--Present)<br>
-(1) Olfactory Bulb Volume Calculation Using MRI Scans<br>
+(1) Olfactory Bulb Volume Measurement Using MRI Scans<br>
 (2) Graph Mining on Open Source Repositories <br>
 (3) Service Requests Alerting System<br>
 

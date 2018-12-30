@@ -9,7 +9,7 @@ author_profile: true
 <b>Jiahao Wang</b>, Jun Chen, Huihui Xu, Shuaibin Zhang, Xiaoguang Mei, Jun Huang, and Jiayi Ma<br>
 <i>Accepted by Signal Processing (IF 3.470).</i>
 
-<b>Magnetic Stripe Authentication System for Handheld Devices</b> <br>
+<b>[Magnetic Stripe Authentication System for Handheld Devices](https://ieeexplore.ieee.org/document/8567770)</b> <br>
 <b>Jiahao Wang</b>, Zhenyu Han, Tianyang Chen, Sibo Xu, and Liqing Zhou<br>
 <i>Oral Presentation, IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC 2018), Sep. 14-17, 2018.</i>
 
