@@ -33,8 +33,8 @@ Member of the Excellent Engineering Program<br>
 
 # Experience
 
-<img width="100" height="100" src="https://jiahaoplus.github.io/images/vmware.png"/> 
-* <b>VMware (Beijing, China) </b> <br>
+* <img width="100" height="100" src="https://jiahaoplus.github.io/images/vmware.png"/> 
+<b>VMware (Beijing, China) </b> <br>
 Software Engineering Intern, Advisor: Kevin Song (Sep. 2018--Present)<br>
 (1) Olfactory Bulb Volume Calculation Using MRI Scans<br>
 (2) Graph Mining on Open Source Repositories <br>
