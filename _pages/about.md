@@ -41,7 +41,7 @@ Software Engineering Intern, Advisor: Kevin Song (Sep. 2018--Present)<br>
 
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/UCLA2.jpg"/> <br>
 <b>University of California, Los Angeles (Los Angeles, CA) </b> <br>
-Research Assistant, Advisor: Prof. Daniel Low, Prof. Anand Santhanam (Jul. 2018--Present)<br>
+Research Assistant, Advisor: Prof. Daniel Low, Prof. Anand Santhanam (Jul. 2018--Sep. 2018)<br>
 Head and Neck CT Image Segmentation
 
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/whu.png"/> <br>
