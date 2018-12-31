@@ -53,3 +53,4 @@ Research Assistant, Advisor: Prof. Jiayi Ma (Dec. 2017--Jun. 2018)<br>
 Research Assistant, Advisor: Prof. Jiayi Ma (Oct. 2016--Dec. 2017)<br>
 (3) Portable Devices for Magnetic Stripe Authentication:<br>
 Team Leader, National Undergraduate Scientific Research Project. (Jan. 2016--Sep. 2017)<br>
+(4) Teaching Assistant of Signal and Systems (70 students) (Feb. 2018--Jun. 2018)<br>
