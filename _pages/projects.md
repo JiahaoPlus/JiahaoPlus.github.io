@@ -4,6 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+Below are some projects I have worked on.
 ## Olfactory Bulb Volume Measurement Using MRI Scans
 <img width="800" height="322" src="https://JiahaoPlus.github.io/images/OB.png"/><br>
 The olfactory bulb is a nerve structure located on the inferior side of the brain, whose size is a reliable indicator of several neurodegenerative diseases. However, olfactory bulbs are minuscule in MRI scans and, therefore, difficult to detect. Also, the number of scans in the dataset is limited. For this project, I used the center of gravity to infer rough bounding boxes of olfactory bulbs, and combined machine learning with morphological operations to accurately separate olfactory bulbs from other noise regions, which is of great value in clinical use.
