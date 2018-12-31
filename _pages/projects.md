@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 ## Retinal Image Registration [[paper]](https://authors.elsevier.com/c/1YDGYbZX4vg-J)
-<img width="800" height="244" src="https://JiahaoPlus.github.io/images/Retianl_GF.PNG"/> <br>
+<img width="800" height="244" src="https://JiahaoPlus.github.io/images/Retinal_GF.PNG"/> <br>
 Retinal image registration plays an important role in diagnosing and treating many eye diseases. In this work, we propose an efficient algorithm called Gaussian field estimator with manifold regularization (GFEMR). We formulate the registration problem as a probabilistic model, that is, a Gaussian field estimator, to achieve a robust estimation, associated with a prior involving manifold regularization to preserve the intrinsic geometry of input data. A sparse approximation is applied to the non-rigid transformation for a fast implementation. Extensive experiments show that our approach can yield superior results compared with other state-of-the-art methods, especially in the case of severely degraded data.
 <img width="468" height="180" src="https://JiahaoPlus.github.io/images/gfemr_our_m.jpg"/>  <img width="230.4" height="180" src="https://JiahaoPlus.github.io/images/gfemr_our_r.jpg"/>
 
