@@ -15,7 +15,7 @@ Feature matching is a key problem in computer vision, graphics, robot location, 
 <img width="800" height="268" src="https://JiahaoPlus.github.io/images/PSSC_result.PNG"/> <br>
 
 ## Medical Image Segmentation [[poster]](https://JiahaoPlus.github.io/files/UCLA_Poster.pdf)
-<img width="400" height="218" src="https://JiahaoPlus.github.io/images/HaN.JPG"/> <br>
+<img width="218" height="218" src="https://JiahaoPlus.github.io/images/HaNGAN.PNG"/><img width="400" height="218" src="https://JiahaoPlus.github.io/images/HaN.JPG"/> <br>
 Accurate segmentation of organs at risks (OARs) is an essential step for the planning of radiation therapy for head and neck (H&N) cancer treatment. However, this procedure is mostly carried out manually in the clinic, and the average physician's time to fully contour a single head and neck case is approximately 2.7 hours. Automatic segmentation of OARs is a challenging task due to the low contrast of soft tissue, artifacts in CT images, and limited labeled slices for training. To deal with the problems, we propose a conditional generative adversarial network (cGAN) based algorithm for automatic segmentation of OARs in H&N CT images. For this work, I won the ["Best Research and Presentation Award"](https://JiahaoPlus.github.io/files/UCLA_award.pdf) in EE group certificated by the UCLA CSST Program.
 
 ## Olfactory Bulb Volume Measurement Using MRI Scans
