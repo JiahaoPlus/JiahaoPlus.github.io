@@ -14,7 +14,7 @@ Feature matching is a key problem in computer vision, graphics, robot location, 
 
 ## Medical Image Segmentation [[poster]](https://JiahaoPlus.github.io/files/UCLA_Poster.pdf)
 <img width="400" height="218" src="https://JiahaoPlus.github.io/images/HaN.JPG"/> <br>
-Accurate segmentation of organs at risks (OARs) is an essential step for the planning of radiation therapy for head and neck (H&N) cancer treatment. However, this procedure is mostly carried out manually in the clinic, and the average physician's time to fully contour a single head and neck case is approximately 2.7 hours. Automatic segmentation of OARs is a challenging task due to the low contrast of soft tissue, artifacts in CT images, and limited labeled slices for training. To deal with the problems, we propose a conditional generative adversarial network (cGAN) based algorithm for automatic segmentation of OARs in H&N CT images.
+Accurate segmentation of organs at risks (OARs) is an essential step for the planning of radiation therapy for head and neck (H&N) cancer treatment. However, this procedure is mostly carried out manually in the clinic, and the average physician's time to fully contour a single head and neck case is approximately 2.7 hours. Automatic segmentation of OARs is a challenging task due to the low contrast of soft tissue, artifacts in CT images, and limited labeled slices for training. To deal with the problems, we propose a conditional generative adversarial network (cGAN) based algorithm for automatic segmentation of OARs in H&N CT images. For this work, I won the ["Best Research and Presentation Award"](https://JiahaoPlus.github.io/files/UCLA_award.pdf) in EE group certificated by the UCLA CSST Program.
 
 ## Olfactory Bulb Volume Measurement Using MRI Scans
 <img width="800" height="322" src="https://JiahaoPlus.github.io/images/OB.png"/><br>
@@ -22,4 +22,10 @@ The olfactory bulb is a nerve structure located on the inferior side of the brai
 
 ## Customer Support Request Alerting System
 <img width="800" height="420" src="https://JiahaoPlus.github.io/images/SR.png"/><br>
-Based on text mining, machine learning, and domain knowledge, I built an intelligent alerting system to help the global support services deal with customer requests. This system can identify the severity of requests and accordingly dispatch engineers. The precision and recall of the identification was close to 90%, and this model improved response times by an average of 37%. Our project was awarded as the “Best Idea Award” at VMware China Borathon (hackathon, 36 teams, more than 100 engineers participated).
+Based on text mining, machine learning, and domain knowledge, I built an intelligent alerting system to help the global support services deal with customer requests. This system can identify the severity of requests and accordingly dispatch engineers. The precision and recall of the identification was close to 90%, and this model improved response times by an average of 37%. Our project was awarded as the [“Best Idea Award”](https://JiahaoPlus.github.io/files/VMware_award.pdf) at VMware China Borathon (hackathon, 36 teams, more than 100 engineers participated).
+
+## Other Projects
+* <b>Remote Sensing Image Registration</b> [[paper]](https://link.springer.com/article/10.1007/s11554-018-0760-5)<br>
+<img width="800" height="290" src="https://JiahaoPlus.github.io/images/GFC.PNG"/><br>
+* <b>Handheld Intelligent System for Forged Currency Identification</b> [[paper]](https://ieeexplore.ieee.org/document/8567770)<br>
+* <b>Graph Mining on Open Source Repositories</b> <br>
