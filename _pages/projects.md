@@ -5,11 +5,11 @@ permalink: /projects/
 author_profile: true
 ---
 ## Retinal Image Registration [[paper]](https://authors.elsevier.com/c/1YDGYbZX4vg-J)
-<img width="520" height="200" src="https://JiahaoPlus.github.io/images/gfemr_our_m.jpg"/>  <img width="256" height="200" src="https://JiahaoPlus.github.io/images/gfemr_our_r.jpg"/> <br>
+<img width="390" height="150" src="https://JiahaoPlus.github.io/images/gfemr_our_m.jpg"/>  <img width="192" height="150" src="https://JiahaoPlus.github.io/images/gfemr_our_r.jpg"/> <br>
 Retinal image registration plays an important role in diagnosing and treating many eye diseases. In this work, we propose an efficient algorithm called Gaussian field estimator with manifold regularization (GFEMR). We formulate the registration problem as a probabilistic model, that is, a Gaussian field estimator, to achieve a robust estimation, associated with a prior involving manifold regularization to preserve the intrinsic geometry of input data. A sparse approximation is applied to the non-rigid transformation for a fast implementation. Extensive experiments show that our approach can yield superior results compared with other state-of-the-art methods, especially in the case of severely degraded data.
 
 ## Robust Feature Matching [[paper]](https://ieeexplore.ieee.org/document/8089726), [[code]](https://github.com/JiahaoPlus/PSSC)
-<img width="800" height="286" src="https://JiahaoPlus.github.io/images/gfemr_our_m.jpg"/> <br>
+<img width="800" height="286" src="https://JiahaoPlus.github.io/images/PSSC.PNG"/> <br>
 Feature matching is a key problem in computer vision, graphics, robot location, and medical image registration. The features are often salient points with associated descriptors extracted by detectors, and the goal is to find point correspondences according to their positions and descriptors. However, in real-world matching problems, the putative matches typically contain a large proportion of outliers. Thus, we introduce a progressive framework, which uses matching results on a small putative set with high inlier ratio to guide the matching on a large putative set. The spatial consensus is modeled by a non-parametric thinplate spline kernel and a sparse approximation is applied to accelerate the optimization. The quantitative results on various experimental data demonstrate that our method can achieve better matching accuracy and can generate more good matches compared to several state-of-the-art methods.
 
 ## Medical Image Segmentation [[poster]](https://JiahaoPlus.github.io/files/UCLA_Poster.pdf)
