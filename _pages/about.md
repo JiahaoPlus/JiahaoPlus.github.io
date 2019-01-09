@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am an undergraduate student majoring in EE (ranking <b>1</b>st) at Wuhan University. [[CV]](https://jiahaoplus.github.io/files/CV_jh.pdf)<br>
+* I am an undergraduate student majoring in EE (ranking <b>1</b>st) at [Wuhan University](http://en.whu.edu.cn/). [[CV]](https://jiahaoplus.github.io/files/CV_jh.pdf)<br>
 My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
 * I am now an intern at [VMware](https://www.vmware.com/).
 
