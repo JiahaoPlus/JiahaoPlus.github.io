@@ -10,7 +10,6 @@ redirect_from:
 
 * I am an undergraduate student majoring in EE (ranking <b>1</b>st) at [Wuhan University](http://en.whu.edu.cn/). [[CV]](https://jiahaoplus.github.io/files/CV_jh.pdf)<br>
 My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
-* I am now an intern at [VMware](https://www.vmware.com/).
 
 # Recent News
 * Dec 06, 2018. [A paper was accepted by *Signal Processing*](https://authors.elsevier.com/c/1YDGYbZX4vg-J)
@@ -27,14 +26,15 @@ Advisor: Prof. Daniel Low and Prof. Anand Santhanam<br>
 
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/whu.png"/> <br>
 <b>Wuhan University (Wuhan, China)</b> <br>
-Sep. 2015--Present<br>
-GPA: 3.92/4.00, <b>ranking 1/97</b>, Electronic Information Engineering, Candidate for Bachelor <br>
+Sep. 2015--Jun. 2019<br>
+GPA: 3.92/4.00, <b>ranking 1/351</b>, Electronic Information Engineering, Candidate for Bachelor <br>
 Member of the Excellent Engineering Program<br>
+Advisor: [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
 
 # Experience
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/vmware.png"/> <br>
 <b>VMware (Beijing, China) </b> <br>
-Software Engineering Intern, Advisor: Kevin Song (Sep. 2018--Present)<br>
+Software Engineering Intern, Advisor: Kevin Song (Sep. 2018--Apr. 2019)<br>
 (1) Olfactory Bulb Volume Measurement Using MRI Scans<br>
 (2) Graph Mining on Open Source Repositories <br>
 (3) Service Requests Alerting System<br>
@@ -46,7 +46,7 @@ Head and Neck CT Image Segmentation
 
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/whu.png"/> <br>
 <b>Wuhan University (Wuhan, China)</b> <br>
-Research and Teaching Assistant, School of Electronic Information (Sep. 2015--Present)<br>
+Research and Teaching Assistant, School of Electronic Information (Sep. 2015--Jun. 2019)<br>
 (1) Retinal Image Registration:<br>
 Research Assistant, Advisor: Prof. Jiayi Ma (Dec. 2017--Jun. 2018)<br>
 (2) Robust Feature Matching:<br>

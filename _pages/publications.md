@@ -7,7 +7,7 @@ author_profile: true
 
 <b>[Gaussian Field Estimator with Manifold Regularization for Retinal Image Registration](https://authors.elsevier.com/c/1YDGYbZX4vg-J)</b> <br>
 <b>Jiahao Wang</b>, Jun Chen, Huihui Xu, Shuaibin Zhang, Xiaoguang Mei, Jun Huang, and Jiayi Ma<br>
-<i>Accepted by Signal Processing (IF 3.470).</i>
+<i>Signal Processing (IF 3.470), vol. 157, pp. 225-235, 2019.</i>
 
 <b>[Magnetic Stripe Authentication System for Handheld Devices](https://ieeexplore.ieee.org/document/8567770)</b> <br>
 <b>Jiahao Wang</b>, Zhenyu Han, Tianyang Chen, Sibo Xu, and Liqing Zhou<br>
