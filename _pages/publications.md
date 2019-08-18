@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[Gaussian Field Estimator with Manifold Regularization for Retinal Image Registration](https://authors.elsevier.com/c/1YDGYbZX4vg-J)</b> <br>
+<b>[Gaussian Field Estimator with Manifold Regularization for Retinal Image Registration](https://www.sciencedirect.com/science/article/pii/S0165168418303955)</b> <br>
 <b>Jiahao Wang</b>, Jun Chen, Huihui Xu, Shuaibin Zhang, Xiaoguang Mei, Jun Huang, and Jiayi Ma<br>
 <i>Signal Processing (IF  4.086), vol. 157, pp. 225-235, 2019.</i>
 
