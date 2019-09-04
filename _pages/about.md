@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am now a visiting research student in [CCVL](https://ccvl.jhu.edu/) group at Johns Hopkins University. I work closely with [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/) and [Weichao Qiu](https://weichaoqiu.com/)
+* I am now a master student in [ETH Zurich](https://ethz.ch/en.html) majoring in Robotics, Systems and Control. My tutor is [Prof. Luc Van Gool] (https://www.vision.ee.ethz.ch/en/members/get_member.cgi?id=1).
+
+* I was a visiting research student in [CCVL](https://ccvl.jhu.edu/) group at Johns Hopkins University in 2019. I worked closely with [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/) and [Weichao Qiu](https://weichaoqiu.com/).
 
 * I received my B.E. degree from [Wuhan University](http://en.whu.edu.cn/) in 2019 (majoring in EE, ranking <b>1</b>st).
 My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
