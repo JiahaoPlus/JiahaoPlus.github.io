@@ -21,20 +21,32 @@ My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/s
 * Sep 07, 2018. I won the "Best Research and Presentation Award" in EE group at UCLA CSST Program.
 
 # Education
+* <img width="75" height="75" src="https://jiahaoplus.github.io/images/ETH.jpg"/> <br>
+<b>ETH (Zurich, Switzerland) </b> <br>
+Sep. 2019--Present<br>
+Master of Science in Robotics, Systems and Control<br>
+Advisor: [Prof. Luc Van Gool](https://scholar.google.com/citations?hl=zh-CN&user=TwMib_QAAAAJ)<br>
+
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/UCLA3.png"/> <br>
 <b>University of California, Los Angeles (Los Angeles, CA) </b> <br>
 Jul. 2018--Sep. 2018<br>
 GPA: 4.00/4.00, Bioscience, CSST Program<br>
-Advisor: Prof. Daniel Low and Prof. Anand Santhanam<br>
+Advisor: [Prof. Daniel Low](https://bioscience.ucla.edu/faculty/daniel-low) and [Prof. Anand Santhanam](https://bioscience.ucla.edu/faculty/anand-p-santhanam)<br>
 
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/whu.png"/> <br>
 <b>Wuhan University (Wuhan, China)</b> <br>
 Sep. 2015--Jun. 2019<br>
-GPA: 3.92/4.00, <b>ranking 1/351</b>, Electronic Information Engineering, Candidate for Bachelor <br>
+Bachelor in Electronic Information Engineering<br>
+GPA: 3.92/4.00, <b>ranking 1/351</b> <br>
 Member of the Excellent Engineering Program<br>
 Advisor: [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
 
 # Experience
+* <img width="75" height="75" src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
+<b>Johns Hopkins University (Baltimore, MD) </b> <br>
+Research Intern, Advisor: Prof. Alan Yuille, Weichao Qiu (Jul. 2019--Aug. 2019)<br>
+Vision Based Stochastic Control for Low Cost Robotic Arms <br>
+
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/vmware.png"/> <br>
 <b>VMware (Beijing, China) </b> <br>
 Software Engineering Intern, Advisor: Kevin Song (Sep. 2018--Apr. 2019)<br>
