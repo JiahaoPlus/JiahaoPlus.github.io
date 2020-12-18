@@ -4,9 +4,6 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-## Olfactory Bulb Volume Measurement Using MRI Scans
-<img width="800" height="322" src="https://JiahaoPlus.github.io/images/OB.png"/><br>
-The olfactory bulb is a nerve structure located on the inferior side of the brain, whose size is a reliable indicator of several neurodegenerative diseases. However, olfactory bulbs are minuscule in MRI scans and, therefore, difficult to detect. Also, the number of scans in the dataset is limited. For this project, I used the center of gravity to infer rough bounding boxes of olfactory bulbs, and combined machine learning with morphological operations to accurately separate olfactory bulbs from other noise regions, which is of great value in clinical use.
 
 ## CT Image Segmentation [[poster]](https://JiahaoPlus.github.io/files/UCLA_Poster.pdf)
 <img width="218" height="218" src="https://JiahaoPlus.github.io/images/HaNGAN.png"/>    <img width="400" height="218" src="https://JiahaoPlus.github.io/images/HaN.JPG"/> <br>
@@ -23,7 +20,7 @@ Feature matching is a key problem in computer vision, graphics, robot location, 
 
 ## Customer Support Request Alerting System
 <img width="800" height="420" src="https://JiahaoPlus.github.io/images/SR.png"/><br>
-Based on text mining, machine learning, and domain knowledge, I built an intelligent alerting system to help the global support services deal with customer requests. This system can identify the severity of requests and accordingly dispatch engineers. The precision and recall of the identification was close to 90%, and this model improved response times by an average of 37%. Our project was awarded as the [“Best Idea Award”](https://JiahaoPlus.github.io/files/VMware_award.pdf) at VMware China Borathon (hackathon, 36 teams, more than 100 engineers participated).
+Based on text mining, machine learning, and domain knowledge, I built an intelligent alerting system to help the VMware global support services deal with customer requests. This system can identify the severity of requests and accordingly dispatch engineers. The precision and recall of the identification was close to 90%, and this model improved response times by an average of 37%. Our project was awarded as the [“Best Idea Award”](https://JiahaoPlus.github.io/files/VMware_award.pdf) at VMware China Borathon (hackathon, 36 teams, more than 100 engineers participated).
 
 ## Other Projects
 * <b>Remote Sensing Image Registration</b> [[paper]](https://link.springer.com/article/10.1007/s11554-018-0760-5)<br>

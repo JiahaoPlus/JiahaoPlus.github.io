@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am now a master student in [ETH Zurich](https://ethz.ch/en.html) majoring in Robotics, Systems and Control. My tutor is [Prof. Luc Van Gool](http://www.vision.ee.ethz.ch/en/members/detail/1/).
+* I am now a master student in [ETH Zürich](https://ethz.ch/en.html) majoring in Robotics, Systems and Control. My tutor is [Prof. Luc Van Gool](http://www.vision.ee.ethz.ch/en/members/detail/1/).
 
 * I was a visiting research student in [CCVL](https://ccvl.jhu.edu/) group at Johns Hopkins University in 2019. I worked closely with [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/) and [Weichao Qiu](https://weichaoqiu.com/).
 
