@@ -32,6 +32,8 @@ My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/s
 Sep. 2019--Apr. 2022<br>
 Master of Science in Robotics, Systems and Control<br>
 Advisor: [Prof. Luc Van Gool](https://scholar.google.com/citations?hl=zh-CN&user=TwMib_QAAAAJ)<br>
+<i>Research Assistant</i>, Human Body Motion Synthesis for Grasping Objects. Advisor: [Prof. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html)<br>
+<i>Research Assistant</i>, Perception-aware Planning for 3D Scene Reconstruction. Advisor: [Prof. Fisher Yu](https://www.yf.io/)<br>
 
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/whu.png"/> <br>
 <b>Wuhan University (Wuhan, China)</b> <br>
@@ -59,4 +61,4 @@ Advisor: [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/), [Dr. Weichao Qiu](https:
 <b>University of California, Los Angeles (Los Angeles, CA) (Jul. 2018--Sep. 2018) </b> <br>
 GPA: 4.00/4.00, Bioscience, CSST Program<br>
 <i>Research Assistant</i>, Head and Neck CT Image Segmentation.<br>
-Advisor: [Prof. Daniel Low](https://bioscience.ucla.edu/faculty/daniel-low) and [Prof. Anand Santhanam](https://bioscience.ucla.edu/faculty/anand-p-santhanam)<br>
+Advisors: [Prof. Daniel Low](https://bioscience.ucla.edu/faculty/daniel-low) and [Prof. Anand Santhanam](https://bioscience.ucla.edu/faculty/anand-p-santhanam)<br>
