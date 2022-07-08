@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <b>[SAGA: Stochastic Whole-Body Grasping with Contact](https://jiahaoplus.github.io/SAGA/saga.html)</b> <br>
-<b>Yan Wu\*, <b>Jiahao Wang</b>\*, Yan Zhang, Siwei Zhang, Otmar Hilliges, Fisher Yu, Siyu Tang<br>
+Yan Wu\*, <b>Jiahao Wang</b>\*, Yan Zhang, Siwei Zhang, Otmar Hilliges, Fisher Yu, Siyu Tang<br>
 (\* equal contribution)<br>
 <i>Accepted to ECCV 2022.</i>
 
