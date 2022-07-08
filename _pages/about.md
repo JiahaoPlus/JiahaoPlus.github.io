@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I will be a PhD student in [Max Planck Institute for Informatics (MPII)](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence). <br>
+* I will be a PhD student at [Max Planck Institute for Informatics (MPII)](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence). <br>
 Advisors: [Prof. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Dr. Adam Kortylewski](https://generativevision.mpi-inf.mpg.de/).
 
-* I was a master student in [ETH Zürich](https://ethz.ch/en.html) majoring in Robotics, Systems and Control. <br>
+* I was a master student at [ETH Zürich](https://ethz.ch/en.html) majoring in Robotics, Systems and Control. <br>
 My tutor is [Prof. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ).
 
 * I was a visiting research student in [CCVL](https://ccvl.jhu.edu/) group at Johns Hopkins University in 2019. <br>
@@ -32,8 +32,8 @@ My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/s
 Sep. 2019--Apr. 2022<br>
 Master of Science in Robotics, Systems and Control<br>
 Advisor: [Prof. Luc Van Gool](https://scholar.google.com/citations?hl=zh-CN&user=TwMib_QAAAAJ)<br>
-<i>Research Assistant</i>, Human Body Motion Synthesis. Advisor: [Prof. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html)<br>
-<i>Research Assistant</i>, 3D Scene Reconstruction with A Robot. Advisor: [Prof. Fisher Yu](https://www.yf.io/)<br>
+<i>Research Assistant</i>, Human Body Motion Synthesis. Advisor: [Prof. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html).<br>
+<i>Research Assistant</i>, 3D Scene Reconstruction with A Robot. Advisor: [Prof. Fisher Yu](https://www.yf.io/).<br>
 
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/whu.png"/> <br>
 <b>Wuhan University (Wuhan, China)</b> <br>
@@ -47,8 +47,8 @@ Advisor: [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/). <br>
 # Experience
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
 <b>Johns Hopkins University (Baltimore, MD) (Jul. 2019--Aug. 2019) </b> <br>
-<i>Research Intern</i>, Vision Based Stochastic Control for Low Cost Robotic Arms <br>
-Advisor: [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/), [Dr. Weichao Qiu](https://weichaoqiu.com/) <br>
+<i>Research Intern</i>, Vision Based Stochastic Control for Low Cost Robotic Arms. <br>
+Advisor: [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/), [Dr. Weichao Qiu](https://weichaoqiu.com/). <br>
 
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/vmware.png"/> <br>
 <b>VMware (Beijing, China) (Sep. 2018--Apr. 2019)</b> <br>
@@ -61,4 +61,4 @@ Advisor: [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/), [Dr. Weichao Qiu](https:
 <b>University of California, Los Angeles (Los Angeles, CA) (Jul. 2018--Sep. 2018) </b> <br>
 GPA: 4.00/4.00, Bioscience, CSST Program<br>
 <i>Research Assistant</i>, Head and Neck CT Image Segmentation.<br>
-Advisors: [Prof. Daniel Low](https://bioscience.ucla.edu/faculty/daniel-low) and [Prof. Anand Santhanam](https://bioscience.ucla.edu/faculty/anand-p-santhanam)<br>
+Advisors: [Prof. Daniel Low](https://bioscience.ucla.edu/faculty/daniel-low) and [Prof. Anand Santhanam](https://bioscience.ucla.edu/faculty/anand-p-santhanam).<br>
