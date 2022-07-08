@@ -38,20 +38,19 @@ Advisor: [Prof. Luc Van Gool](https://scholar.google.com/citations?hl=zh-CN&user
 Sep. 2015--Jun. 2019<br>
 Bachelor in Electronic Information Engineering<br>
 GPA: 3.92/4.00, ranking 1/351 <br>
-Member of the Excellent Engineering Program<br>
-Teaching Assistant of Signal and Systems.
-Research Assistant on feature matching and image registration.
-Advisor: [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
+<i>Teaching Assistant</i> of Signal and Systems. <br>
+<i>Research Assistant</i> on feature matching and image registration. <br>
+Advisor: [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/). <br>
 
 # Experience
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
 <b>Johns Hopkins University (Baltimore, MD) (Jul. 2019--Aug. 2019) </b> <br>
-Research Intern, Vision Based Stochastic Control for Low Cost Robotic Arms <br>
+<i>Research Intern</i>, Vision Based Stochastic Control for Low Cost Robotic Arms <br>
 Advisor: [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/), [Dr. Weichao Qiu](https://weichaoqiu.com/) <br>
 
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/vmware.png"/> <br>
 <b>VMware (Beijing, China) (Sep. 2018--Apr. 2019)</b> <br>
-Software Engineering Intern, Advisor: Kevin Song <br>
+<i>Software Engineering Intern</i>, Advisor: Kevin Song <br>
 (1) Service Requests Alerting System<br>
 (2) Graph Mining on Open Source Repositories <br>
 (3) Olfactory Bulb Volume Measurement Using MRI Scans<br>
@@ -59,5 +58,5 @@ Software Engineering Intern, Advisor: Kevin Song <br>
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/UCLA3.png"/> <br>
 <b>University of California, Los Angeles (Los Angeles, CA) (Jul. 2018--Sep. 2018) </b> <br>
 GPA: 4.00/4.00, Bioscience, CSST Program<br>
-Research Assistant, Head and Neck CT Image Segmentation.<br>
+<i>Research Assistant</i>, Head and Neck CT Image Segmentation.<br>
 Advisor: [Prof. Daniel Low](https://bioscience.ucla.edu/faculty/daniel-low) and [Prof. Anand Santhanam](https://bioscience.ucla.edu/faculty/anand-p-santhanam)<br>
