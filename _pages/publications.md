@@ -7,7 +7,7 @@ author_profile: true
 
 <b>[SAGA: Stochastic Whole-Body Grasping with Contact](https://jiahaoplus.github.io/SAGA/saga.html)</b> <br>
 <b>Yan Wu\*, <b>Jiahao Wang</b>\*, Yan Zhang, Siwei Zhang, Otmar Hilliges, Fisher Yu, Siyu Tang<br>
-(* equal contribution)
+(\* equal contribution)<br>
 <i>Accepted to ECCV 2022.</i>
 
 <b>[Gaussian Field Estimator with Manifold Regularization for Retinal Image Registration](https://www.sciencedirect.com/science/article/pii/S0165168418303955)</b> <br>

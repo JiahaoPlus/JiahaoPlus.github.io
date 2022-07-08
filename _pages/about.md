@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 * I will be a PhD student in [Max Planck Institute for Informatics (MPII)](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence). <br>
-Advisor: [Prof. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Dr. Adam Kortylewski](https://generativevision.mpi-inf.mpg.de/).
+Advisors: [Prof. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Dr. Adam Kortylewski](https://generativevision.mpi-inf.mpg.de/).
 
 * I was a master student in [ETH Zürich](https://ethz.ch/en.html) majoring in Robotics, Systems and Control. <br>
 My tutor is [Prof. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ).
@@ -21,7 +21,7 @@ My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/s
 
 # Recent News
 * Jul 03, 2022. [A paper was accepted by ECCV 2022](https://jiahaoplus.github.io/SAGA/saga.html).
-* Jun 30, 2022. We are organizing the [Out Of Distribution Generalization in Computer Vision](http://www.ood-cv.org/) workshop at [ECCV 2022](https://eccv2022.ecva.net/), including both a challenge track and a paper track. Welcome to participate!
+* Jun 30, 2022. We are organizing the [Out Of Distribution Generalization in Computer Vision (OODCV)](http://www.ood-cv.org/) workshop at [ECCV 2022](https://eccv2022.ecva.net/), including both a challenge track and a paper track. Welcome to participate!
 * Dec 06, 2018. [A paper was accepted by Signal Processing](https://www.sciencedirect.com/science/article/pii/S0165168418303955)
 * Oct 26, 2018. I won the "Best Idea Award" in VMware Borathon.
 * Sep 07, 2018. I won the "Best Research and Presentation Award" in EE group at UCLA CSST Program.
@@ -29,7 +29,7 @@ My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/s
 # Education
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/ETH.jpg"/> <br>
 <b>ETH (Zürich, Switzerland) </b> <br>
-Sep. 2019--Present<br>
+Sep. 2019--Apr. 2022<br>
 Master of Science in Robotics, Systems and Control<br>
 Advisor: [Prof. Luc Van Gool](https://scholar.google.com/citations?hl=zh-CN&user=TwMib_QAAAAJ)<br>
 
@@ -37,7 +37,7 @@ Advisor: [Prof. Luc Van Gool](https://scholar.google.com/citations?hl=zh-CN&user
 <b>Wuhan University (Wuhan, China)</b> <br>
 Sep. 2015--Jun. 2019<br>
 Bachelor in Electronic Information Engineering<br>
-GPA: 3.92/4.00, <b>ranking 1/351</b> <br>
+GPA: 3.92/4.00, ranking 1/351 <br>
 Member of the Excellent Engineering Program<br>
 Teaching Assistant of Signal and Systems.
 Research Assistant on feature matching and image registration.
@@ -59,5 +59,5 @@ Software Engineering Intern, Advisor: Kevin Song <br>
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/UCLA3.png"/> <br>
 <b>University of California, Los Angeles (Los Angeles, CA) (Jul. 2018--Sep. 2018) </b> <br>
 GPA: 4.00/4.00, Bioscience, CSST Program<br>
-Research Assistant, Head and Neck CT Image Segmentation.
+Research Assistant, Head and Neck CT Image Segmentation.<br>
 Advisor: [Prof. Daniel Low](https://bioscience.ucla.edu/faculty/daniel-low) and [Prof. Anand Santhanam](https://bioscience.ucla.edu/faculty/anand-p-santhanam)<br>
