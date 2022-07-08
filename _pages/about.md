@@ -32,8 +32,8 @@ My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/s
 Sep. 2019--Apr. 2022<br>
 Master of Science in Robotics, Systems and Control<br>
 Advisor: [Prof. Luc Van Gool](https://scholar.google.com/citations?hl=zh-CN&user=TwMib_QAAAAJ)<br>
-<i>Research Assistant</i>, Human Body Motion Synthesis for Grasping Objects. Advisor: [Prof. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html)<br>
-<i>Research Assistant</i>, Perception-aware Planning for 3D Scene Reconstruction. Advisor: [Prof. Fisher Yu](https://www.yf.io/)<br>
+<i>Research Assistant</i>, Human Body Motion Synthesis. Advisor: [Prof. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html)<br>
+<i>Research Assistant</i>, 3D Scene Reconstruction with A Robot. Advisor: [Prof. Fisher Yu](https://www.yf.io/)<br>
 
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/whu.png"/> <br>
 <b>Wuhan University (Wuhan, China)</b> <br>
