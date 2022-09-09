@@ -18,8 +18,4 @@ Yan Wu\*, <b>Jiahao Wang</b>\*, Yan Zhang, Siwei Zhang, Otmar Hilliges, Fisher Y
 Yong Ma, <b>Jiahao Wang</b>, Huihui Xu, Shuaibin Zhang, Xiaoguang Mei, and Jiayi Ma<br>
 <i>IEEE Access, vol. 5, pp. 24568-24579, 2017.</i>
 
-<b>[Robust Feature Matching via Gaussian Field Criterion for Remote Sensing Image Registration](https://link.springer.com/article/10.1007/s11554-018-0760-5)</b> <br>
-Qing Ma, Xu Du, <b>Jiahao Wang</b>, Yong Ma, and Jiayi Ma<br>
-<i>Journal of Real-Time Image Processing, vol. 5, no. 3, pp. 523-536, 2018.</i>
-
 
