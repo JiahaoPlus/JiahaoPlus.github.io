@@ -19,7 +19,6 @@ My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/s
 * Jul 03, 2022. [A paper was accepted by ECCV 2022](https://jiahaoplus.github.io/SAGA/saga.html).
 * Jun 30, 2022. We are organizing the [Out Of Distribution Generalization in Computer Vision (OODCV)](http://www.ood-cv.org/) workshop at [ECCV 2022](https://eccv2022.ecva.net/), including both a challenge track and a paper track. Welcome to participate!
 * Dec 06, 2018. [A paper was accepted by Signal Processing](https://www.sciencedirect.com/science/article/pii/S0165168418303955)
-* Oct 26, 2018. I won the "Best Idea Award" in VMware Borathon.
 * Sep 07, 2018. I won the "Best Research and Presentation Award" in EE group at UCLA CSST Program.
 
 # Education
