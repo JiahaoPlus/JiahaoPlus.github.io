@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am a Ph.D. student in [CCVL](https://ccvl.jhu.edu/) group at [Johns Hopkins University](https://www.jhu.edu/). My advisor is [Prof. Alan Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ).
+* I am a Ph.D. student in [CCVL](https://ccvl.jhu.edu/) group at [Johns Hopkins University](https://www.jhu.edu/), majoring in CS. <br>
+My advisor is [Prof. Alan Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ).
 
-* I was a master student at [ETH Zürich](https://ethz.ch/en.html). My tutor is [Prof. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ).
+* I received my master's degree at [ETH Zürich](https://ethz.ch/en.html), advised by [Prof. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ).
 
 <!-- * I was a visiting research student in [CCVL](https://ccvl.jhu.edu/) group at Johns Hopkins University in 2019. <br>
 I worked closely with [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/) and [Dr. Weichao Qiu](https://weichaoqiu.com/). -->
