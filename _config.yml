@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiahao Wang"
 title_separator          : "-"
 name                     : &name "Jiahao Wang"
-description              : &description "Candidate for Bachelor, EE, Wuhan University."
+description              : &description "CS PhD Student at JHU."
 url                      : https://JiahaoPlus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiahaoPlus/JiahaoPlus.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Jiahao Wang"
   avatar           : "bio-photo-0.jpg"
   bio              : "Build intelligent machine for human well-being."
-  location         : "Zürich, Switzerland"
+  location         : "Baltimore, US"
   employer         :
   googlescholar    :
-  email            : "jiahaowang616@gmail.com"
+  email            : "jiahaowg@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
