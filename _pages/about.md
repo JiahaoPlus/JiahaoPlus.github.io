@@ -26,7 +26,7 @@ My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/s
 <!-- * Sep 07, 2018. I won the "Best Research and Presentation Award" in EE group at UCLA CSST Program. -->
 
 # Education
-<img width="75" height="75" src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
+* <img width="75" height="75" src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
 <b>Johns Hopkins University (Baltimore, US)</b> <br>
 Jan. 2023--Present<br>
 Ph.D. in Computer Science<br>
