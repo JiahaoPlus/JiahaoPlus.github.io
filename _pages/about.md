@@ -18,6 +18,7 @@ I worked closely with [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/) and [Dr. Wei
 My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
 
 # Recent News
+* Jan 16, 2024. A paper was accepted by ICLR 2024 as spotlight (5%).
 * May 20, 2023. We are organizing the 2nd [OOD-CV](http://www.ood-cv.org/) workshop at [ICCV 2023](https://iccv2023.thecvf.com/).
 * Jul 03, 2022. [A paper was accepted by ECCV 2022](https://jiahaoplus.github.io/SAGA/saga.html).
 * Jun 30, 2022. We are organizing the [Out Of Distribution Generalization in Computer Vision (OOD-CV)](http://www.ood-cv.org/) workshop at [ECCV 2022](https://eccv2022.ecva.net/), including both a challenge track and a paper track. Welcome to participate!
