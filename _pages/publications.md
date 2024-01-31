@@ -10,7 +10,7 @@ Full list of publications can be found on [Google Scholar](https://scholar.googl
 <b>[Adding 3D Geometry Control to Diffusion Models](https://arxiv.org/abs/2306.08103)</b> <br>
 Wufei Ma\*, Qihao Liu\*, <b>Jiahao Wang</b>\*, Angtian Wang, Yaoyao Liu, Adam Kortylewski, Alan Yuille<br>
 (\* equal contribution)<br>
-<i>ICLR, 2024 (Spotlight, 5%).</i>
+<i>ICLR 2024 (Spotlight, 5%).</i>
 
 <b>[Structure-Aware Sparse-View X-ray 3D Reconstruction](https://github.com/caiyuanhao1998/SAX-NeRF)</b> <br>
 Yuanhao Cai, <b>Jiahao Wang</b>, Alan Yuille, Zongwei Zhou*, Angtian Wang*<br>

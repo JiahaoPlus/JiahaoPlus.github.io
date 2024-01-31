@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiahao Wang"
   avatar           : "bio-photo-0.jpeg"
-  bio              : "Build intelligent machine for human well-being."
+  bio              : "CS PhD Student at JHU"  # "Build intelligent machine for human well-being."
   location         : "Baltimore, US"
   employer         :
   googlescholar    :
