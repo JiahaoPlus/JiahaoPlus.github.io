@@ -50,6 +50,11 @@ GPA: 3.92/4.00, ranking 1/351 <br>
 Advisor: [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/). <br>
 
 # Experience
+* <img width="75" height="75" src="https://jiahaoplus.github.io/images/waymo.jpg"/> <br>
+<b>Waymo Research (Mountain View, CA) (May. 2024--Present) </b> <br>
+<i>Research Intern</i>, Generative Models. <br>
+Advisor: [Dr. Max Jiang](https://scholar.google.com/citations?user=KD12DDMAAAAJ), [Dr. Zhenpei Yang](https://scholar.google.com/citations?user=7AiInscAAAAJ). <br>
+
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
 <b>Johns Hopkins University (Baltimore, MD) (Jul. 2019--Aug. 2019) </b> <br>
 <i>Research Intern</i>, Multi-view Pose Estimation. <br>
