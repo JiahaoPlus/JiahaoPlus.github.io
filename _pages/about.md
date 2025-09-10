@@ -18,7 +18,9 @@ I worked closely with [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/) and [Dr. Wei
 My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
 
 # Recent News
-* Jan 16, 2024. A paper was accepted by ICLR 2024 as spotlight (5%).
+* Jun 15, 2025. A paper was accepted by [IROS 2025](https://www.iros25.org/) as oral presentation. The paper was done we I was an intern at [Waymo](https://waymo.com/).
+* Jun 14, 2025. We are presenting a demo about [GenEx](https://www.genex.world/) at CVPR 2025.
+* Jan 16, 2024. A paper was accepted by [ICLR 2024](https://arxiv.org/abs/2306.08103) as spotlight (5%).
 * May 20, 2023. We are organizing the 2nd [OOD-CV](http://www.ood-cv.org/) workshop at [ICCV 2023](https://iccv2023.thecvf.com/).
 * Jul 03, 2022. [A paper was accepted by ECCV 2022](https://jiahaoplus.github.io/SAGA/saga.html).
 * Jun 30, 2022. We are organizing the [Out Of Distribution Generalization in Computer Vision (OOD-CV)](http://www.ood-cv.org/) workshop at [ECCV 2022](https://eccv2022.ecva.net/), including both a challenge track and a paper track. Welcome to participate!
@@ -51,9 +53,9 @@ Advisor: [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/). <br>
 
 # Experience
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/waymo.png"/> <br>
-<b>Waymo Research (Mountain View, CA) (May. 2024--Present) </b> <br>
+<b>Waymo Research (Mountain View, CA) (May. 2024--Jan. 2025, May 2025--Present) </b> <br>
 <i>Research Intern</i>, Generative Models. <br>
-Advisor: [Dr. Max Jiang](https://scholar.google.com/citations?user=KD12DDMAAAAJ), [Dr. Zhenpei Yang](https://scholar.google.com/citations?user=7AiInscAAAAJ). <br>
+Advisor: [Dr. Max Jiang](https://scholar.google.com/citations?user=KD12DDMAAAAJ), [Dr. Zhenpei Yang](https://scholar.google.com/citations?user=7AiInscAAAAJ), [Dr. Bo Sun](https://scholar.google.com/citations?user=H9Yzbw4AAAAJ). <br>
 
 * <img width="75" height="75" src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
 <b>Johns Hopkins University (Baltimore, MD) (Jul. 2019--Aug. 2019) </b> <br>
