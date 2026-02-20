@@ -18,7 +18,7 @@ I worked closely with [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/) and [Dr. Wei
 My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
 
 # Recent News
-* Feb 06, 2026. We introduce [Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation).
+* Feb 06, 2026. We introduce [Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation) for autonomous driving simulation.
 * Jun 15, 2025. A paper was accepted by [IROS 2025](https://www.iros25.org/) as oral presentation. The paper was done we I was an intern at [Waymo](https://waymo.com/).
 * Jun 14, 2025. We are presenting a demo about [GenEx](https://www.genex.world/) at CVPR 2025.
 * Jan 16, 2024. A paper was accepted by [ICLR 2024](https://arxiv.org/abs/2306.08103) as spotlight (5%).
