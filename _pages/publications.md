@@ -9,7 +9,7 @@ Full list of publications can be found on [Google Scholar](https://scholar.googl
 
 <b>[World-in-world: World models in a closed-loop world](https://arxiv.org/abs/2510.18135)</b> <br>
 Jiahan Zhang, Muqing Jiang, Nanru Dai, Taiming Lu, Arda Uzunoglu, Shunchi Zhang, Yana Wei, <b>Jiahao Wang</b>, Vishal M Patel, Paul Pu Liang, Daniel Khashabi, Cheng Peng, Rama Chellappa, Tianmin Shu, Alan Yuille, Yilun Du, Jieneng Chen<br>
-<i>ICLR 2026 (Oral, 4%).</i>
+<i>ICLR 2026 (Oral, 1%).</i>
 
 <b>[Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models](https://arxiv.org/abs/2510.06209)</b> <br>
 <b>Jiahao Wang</b>, Zhenpei Yang, Yijing Bai, Yingwei Li, Yuliang Zou, Bo Sun, Abhijit Kundu, Jose Lezama, Luna Yue Huang, Zehao Zhu, Jyh-Jing Hwang, Dragomir Anguelov, Mingxing Tan, Chiyu Max Jiang<br>
