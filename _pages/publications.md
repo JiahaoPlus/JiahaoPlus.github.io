@@ -7,6 +7,14 @@ author_profile: true
 
 Full list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=dKHE3qgAAAAJ).
 
+<b>[Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Sensor2Sensor_Cross-Embodiment_Sensor_Conversion_for_Autonomous_Driving_CVPR_2026_paper.html)</b> <br>
+<b>Jiahao Wang</b>, Bo Sun, Yijing Bai, Vincent Casser, Songyou Peng, Zehao Zhu, Meng-Li Shih, Xander Masotto, Shih-Yang Su, Kanaad Parvate, Tiancheng Ge, Linn Bieske, Dragomir Anguelov, Mingxing Tan, Chiyu Max Jiang<br>
+<i>CVPR 2026.</i>
+
+<b>[Captain Safari: A World Engine with Pose-Aligned 3D Memory](https://arxiv.org/abs/2511.22815)</b> <br>
+Yu-Cheng Chou, Xingrui Wang, Yitong Li, <b>Jiahao Wang</b>, Hanting Liu, Cihang Xie, Alan Yuille, Junfei Xiao<br>
+<i>CVPR 2026.</i>
+
 <b>[World-in-world: World models in a closed-loop world](https://arxiv.org/abs/2510.18135)</b> <br>
 Jiahan Zhang, Muqing Jiang, Nanru Dai, Taiming Lu, Arda Uzunoglu, Shunchi Zhang, Yana Wei, <b>Jiahao Wang</b>, Vishal M Patel, Paul Pu Liang, Daniel Khashabi, Cheng Peng, Rama Chellappa, Tianmin Shu, Alan Yuille, Yilun Du, Jieneng Chen<br>
 <i>ICLR 2026 (Oral, 1%).</i>
