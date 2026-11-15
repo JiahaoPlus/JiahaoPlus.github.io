@@ -12,7 +12,7 @@ I study generative world models and 3D vision for embodied systems. My work incl
 **Jiahao Wang**, Bo Sun, Yijing Bai, Vincent Casser, Songyou Peng, Zehao Zhu, Meng-Li Shih, Xander Masotto, Shih-Yang Su, Kanaad Parvate, Tiancheng Ge, Linn Bieske, Dragomir Anguelov, Mingxing Tan, Chiyu Max Jiang  
 *CVPR 2026*
 
-Sensor2Sensor converts a single in-the-wild monocular dashcam video into eight camera streams and LiDAR point clouds matching a target autonomous vehicle’s sensor configuration. It uses 4D Gaussian Splatting to construct paired dashcam and vehicle sensor data for training a joint camera–LiDAR diffusion model. The paper evaluates cross-modal consistency and tests how perception models trained on real data perform on the generated sensor streams.
+Sensor2Sensor converts in-the-wild monocular footage from dashcams, online driving videos, phones, and other vehicle platforms into high-fidelity sensor logs with eight synchronized camera streams and LiDAR point clouds for a target autonomous vehicle. It uses 4D Gaussian Splatting to render synthetic dashcam footage from real vehicle logs, then pairs the footage with the original sensor recordings to train a joint camera–LiDAR diffusion model. The paper evaluates generation quality and visualizes camera–LiDAR alignment. It assesses simulation fidelity through LiDAR vehicle detection and image segmentation.
 
 [CVPR paper (CVF)](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Sensor2Sensor_Cross-Embodiment_Sensor_Conversion_for_Autonomous_Driving_CVPR_2026_paper.html) · [arXiv:2605.22809](https://arxiv.org/abs/2605.22809) · [Waymo Research](https://waymo.com/research/sensor-2-sensor-cross-embodiment-sensor/)
 
