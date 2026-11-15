@@ -18,13 +18,13 @@ Sensor2Sensor converts a single in-the-wild monocular dashcam video into eight c
 
 <details>
 <summary>Sensor2Sensor CVPR BibTeX</summary>
-<pre><code>@inproceedings{Wang_2026_CVPR,
+<pre><code>{% raw %}@inproceedings{Wang_2026_CVPR,
   author    = {Wang, Jiahao and Sun, Bo and Bai, Yijing and Casser, Vincent and Peng, Songyou and Zhu, Zehao and Shih, Meng-Li and Masotto, Xander and Su, Shih-Yang and Parvate, Kanaad and Ge, Tiancheng and Bieske, Linn and Anguelov, Dragomir and Tan, Mingxing and Jiang, Chiyu Max},
   title     = {{Sensor2Sensor}: Cross-Embodiment Sensor Conversion for Autonomous Driving},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year      = {2026},
   pages     = {32093--32102}
-}</code></pre>
+}{% endraw %}</code></pre>
 </details>
 
 ## Captain Safari: A World Engine with Pose-Aligned 3D Memory {#captain-safari}
